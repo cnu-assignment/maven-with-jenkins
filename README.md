@@ -1,5 +1,10 @@
 # 9jo
 
+- github commit push시 webhook으로 jenkins build - 성공!
+- jenkins job이 종료된 후 slack notify - 성공!
+- SonarQube 연동 - 성공!
+---
+
 download this project and review pom.xml and project folder structures.
 
 1. mvn clean spring-boot:run
